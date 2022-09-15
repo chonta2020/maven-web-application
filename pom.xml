@@ -99,6 +99,11 @@
 	      <name>Tesla frond Releases</name>
 	      <url>http://44.201.252.46:8081/repository/tesla-frontend-releases/</url>
 	    </repository>
+	 <snapshotRepository>
+	      <id>nexus</id>
+	      <name>Tesla Front end Snapshort </name>
+	      <url>http://44.201.252.46:8081/repository/tesla-frontend-snapshort/</url>
+	    </snapshotRepository>
 	</distributionManagement>
 	
 	<build>
